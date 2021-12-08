@@ -30,13 +30,13 @@ I have good design & coding skills.
 
 ### Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanyt&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AbhigyaKrishna)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyaKrishna&count_private=true&theme=tokyonight)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanyt&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/namanyt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanyt&count_private=true&theme=tokyonight)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Jarvis&show_owner=true&theme=tokyonight)](https://github.com/AbhigyaKrishna/SimpleYAMLFileManager)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Minecraft-Code&show_owner=true&theme=tokyonight)](https://github.com/AbhigyaKrishna/2048-Discord-Bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Jarvis&show_owner=true&theme=tokyonight)](https://github.com/namanyt/SimpleYAMLFileManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Minecraft-Code&show_owner=true&theme=tokyonight)](https://github.com/namanyt/2048-Discord-Bot)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
