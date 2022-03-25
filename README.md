@@ -35,8 +35,8 @@ I have good design & coding skills.
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Jarvis&show_owner=true&theme=tokyonight)](https://github.com/namanyt/SimpleYAMLFileManager)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Minecraft-Code&show_owner=true&theme=tokyonight)](https://github.com/namanyt/2048-Discord-Bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Jarvis&show_owner=true&theme=tokyonight)](https://github.com/namanyt/Cave-Craft-Store)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namanyt&repo=Minecraft-Code&show_owner=true&theme=tokyonight)](https://github.com/Ciderboi123/Flappy-Bird)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
